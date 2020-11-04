@@ -1,0 +1,8 @@
+.vagrant
+*.log
+.DS_Store
+!/tests/results/.gitkeep
+/tests/results/*
+Vagrantfile
+.idea
+
